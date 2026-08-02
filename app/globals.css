@@ -1,4 +1,4 @@
-tailwind base;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -10,7 +10,6 @@ body {
   background-color: #0b2545;
 }
 
-/* Blueprint grid background for the hero */
 .bp-grid {
   background-color: #0b2545;
   background-image:
@@ -19,7 +18,6 @@ body {
   background-size: 32px 32px;
 }
 
-/* Small crosshair / dimension-mark accents used near the signature elements */
 .bp-crosshair {
   position: relative;
 }
